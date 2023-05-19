@@ -13,6 +13,6 @@ int main(){
         return false;
     }
     else{
-        std::cout << "Voce acertou, a resposta correra era: " << resposta << std::endl;
+        std::cout << "Voce acertou, a resposta correta era: " << resposta << std::endl;
     }
 }
